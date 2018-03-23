@@ -1,0 +1,30 @@
+body{
+    padding: 15px;
+    font-family: sans-serif;
+    background: url(../img/gplay.png);
+}
+.tab{
+    margin-left: 2em;
+}
+h1{
+    color: #70c1b3;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.15);
+}
+h2,h3{
+    color: #70c1b3; 
+    text-decoration: overline;
+}
+.logo{
+    width: 25%;
+}
+.centrar{
+    text-align: center;
+}
+.codigo{
+    background-color: beige;
+}
+em{
+    color: firebrick;
+    font-weight: bold;
+}
